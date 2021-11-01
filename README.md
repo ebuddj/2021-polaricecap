@@ -13,7 +13,7 @@ In 2017 the ice coverage was the 3rd smallest covering 4.59 million square kilom
 * [ECMWF](https://www.ecmwf.int/)
 
 **EBU links**
-*
+* [News Exchange](https://news-exchange.ebu.ch/item_detail/0521d982f9cdb776d002f5eb57f96c7e/2021_10051957)
 
 **Used by**
 *
